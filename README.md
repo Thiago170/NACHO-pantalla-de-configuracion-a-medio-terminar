@@ -1,2 +1,3 @@
 # NACHO-pantalla-de-configuracion-a-medio-terminar
-le falta un toquesin
+Le falta un toquesin pero puse bastante del diseño
+
