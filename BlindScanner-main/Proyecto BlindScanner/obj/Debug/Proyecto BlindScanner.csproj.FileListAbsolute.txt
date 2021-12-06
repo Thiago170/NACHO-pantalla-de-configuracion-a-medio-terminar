@@ -1,0 +1,164 @@
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\ALUMNO\source\repos\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csprojAssemblyReference.cache
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\47127145\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.AssemblyReference.cache
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csprojAssemblyReference.cache
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csprojAssemblyReference.cache
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\Arotu\Desktop\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csprojAssemblyReference.cache
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\47127145\Downloads\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.CreadorDeListas.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.AssemblyReference.cache
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\Ernesto Kirchuk\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.CreadorDeListas.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.CreadorDeListas.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\aa\Proyecto BlindScanner.resources.dll
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.aa.resources
+C:\Users\ALUMNO\source\repos\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\aa\Proyecto BlindScanner.resources.dll
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe.config
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.exe
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\Proyecto BlindScanner.pdb
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\bin\Debug\aa\Proyecto BlindScanner.resources.dll
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.AssemblyReference.cache
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.AcercaApp.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Alarmas_activas.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Calendario.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Configuración.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.CreadorDeListas.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmRegistro.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.frmLogin.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Listas_activas.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Productos.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.Properties.Resources.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto_BlindScanner.menú.aa.resources
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.GenerateResource.cache
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.csproj.CoreCompileInputs.cache
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\aa\Proyecto BlindScanner.resources.dll
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.exe
+Z:\h\BlindScanner-main\BlindScanner-main\Proyecto BlindScanner\obj\Debug\Proyecto BlindScanner.pdb
